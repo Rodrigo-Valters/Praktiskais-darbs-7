@@ -41,4 +41,4 @@ Praktiskais-darbs-7/
 - [Geoapify] (https://myprojects.geoapify.com/) - API adrešu meklēšanai
 
 ## Autors
-- 2025: Rodrigo Valters Rukutis
+- 2025: Rodrigo Valters (https://github.com/Rodrigo-Valters)
